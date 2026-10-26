@@ -29,7 +29,7 @@ TPL = """
     <div class="kicker">LangListo teacher workspace</div>
     <h1>cli-langlisto</h1>
     <div class="sub">Students, classes, schedule, materials &amp; books — from your terminal</div>
-    <div class="by">unofficial · MIT · by Fedor Molodtsov</div>
+    <div class="by">unofficial · AGPL-3.0 · by Fedor Molodtsov</div>
   </div>
   <div class="shelf">
     <div class="book b1"></div><div class="book b2"></div><div class="book b3"></div><div class="book b4"></div>
