@@ -11,7 +11,7 @@
 platform — with a bundled agent skill.**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Bundles an agent skill](https://img.shields.io/badge/bundles-agent%20skill-0075de.svg)](skills/cli-langlisto/SKILL.md)
 
 > **Note:** v1.1.0 renamed the project to **`cli-langlisto`** (previously `cli-anything-langlisto`). The old command name still works as an alias.
@@ -285,5 +285,8 @@ A quiet pace between calls keeps bulk operations friendly to the platform.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Not affiliated with LangListo; use with your
-own account and data.
+Apache-2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE). Not affiliated with LangListo; use with your own account and data.
+
+- **Code:** use, modify and ship it commercially; the patent grant is explicit.
+- **Attribution:** the `NOTICE` file must travel with any redistribution, so credit stays attached.
+- **Author:** Fedor Molodtsov — https://github.com/itsfedor
