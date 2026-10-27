@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Fedor Molodtsov",
     url="https://github.com/itsfedor/cli-langlisto",
-    license="AGPL-3.0-only",
+    license="MIT",
     packages=find_packages(include=["cli_langlisto*"]),
     python_requires=">=3.9",
     install_requires=["click>=8"],
@@ -27,7 +27,7 @@ setup(
     },
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU Affero General Public License v3",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
 )

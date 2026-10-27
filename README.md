@@ -11,7 +11,7 @@
 platform — with a bundled agent skill.**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Bundles an agent skill](https://img.shields.io/badge/bundles-agent%20skill-0075de.svg)](skills/cli-langlisto/SKILL.md)
 
 > **Note:** v1.1.0 renamed the project to **`cli-langlisto`** (previously `cli-anything-langlisto`). The old command name still works as an alias.
@@ -285,6 +285,5 @@ A quiet pace between calls keeps bulk operations friendly to the platform.
 
 ## License
 
-AGPL-3.0 — see [LICENSE](LICENSE). Commercial license:
-[COMMERCIAL.md](COMMERCIAL.md). Not affiliated with LangListo; use with your
+MIT — see [LICENSE](LICENSE). Not affiliated with LangListo; use with your
 own account and data.
